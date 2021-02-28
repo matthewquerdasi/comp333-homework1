@@ -1,0 +1,28 @@
+/* root colors */
+:root {
+    --main-color: #33dcdc; 
+    --secondary-color: black;
+}
+
+/* classes for changing bootstrap set color */ 
+.bg-primary {
+    background-color: var(--main-color) !important;
+}
+
+.btn-primary {
+    background-color: var(--secondary-color) !important;
+}
+
+a, .text-primary {
+    color: var(--main-color) !important;
+}
+
+.portfolio-box::hover {
+    background: red !important;
+}
+
+
+/* ID for hr color */
+#hr-color { 
+    border-color: var(--main-color) !important;
+}
