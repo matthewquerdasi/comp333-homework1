@@ -1,4 +1,4 @@
-/* root colors */
+/* defining root colors */
 :root {
     --main-color: #33dcdc; 
     --secondary-color: black;
@@ -21,8 +21,13 @@ a, .text-primary {
     background: red !important;
 }
 
+/* formatting youtube video for mobile */
+#youtube-video {
+    max-width: 90%;
+}
 
 /* ID for hr color */
 #hr-color { 
     border-color: var(--main-color) !important;
 }
+
