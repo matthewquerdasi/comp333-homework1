@@ -4,6 +4,8 @@ This website was created for the Wesleyan University COMP333 Assignment 1, and i
 
 The site can be found at https://matthewquerdasi.github.io/comp333-homework1/. 
 
+The github repo for this project can be found at https://github.com/matthewquerdasi/comp333-homework1.
+
 ## Template Changes
 
 I downloaded the "Creative" template from https://startbootstrap.com/theme/creative for the home page, and used a basic features template for the jobs page from https://startbootstrap.com/template/heroic-features. 
